@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+At time                    0
+$finish called at time : 30 ns : File "/home/thejoey/Projects/simple_cpus/rv32-pipelined/rv32-pipelined.srcs/sources_1/new/riscv_cpu_tb.v" Line 30
+At time                    0
+$finish called at time : 30 ns : File "/home/thejoey/Projects/simple_cpus/rv32-pipelined/rv32-pipelined.srcs/sources_1/new/riscv_cpu_tb.v" Line 30
