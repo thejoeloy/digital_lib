@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+At time                    0
+$finish called at time : 25 ns : File "/home/thejoey/Projects/simple_cpus/rv32-multi/rv32-multi.srcs/sources_1/new/riscv_cpu_tb.v" Line 33
+At time                    0
+$finish called at time : 25 ns : File "/home/thejoey/Projects/simple_cpus/rv32-multi/rv32-multi.srcs/sources_1/new/riscv_cpu_tb.v" Line 33
