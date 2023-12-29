@@ -7,3 +7,6 @@ textbook Computer Organization and Design by Hennesey and Patterson
 ## rv-32I
 Contains a 5 stage pipelined implementation of the RV32I ISA with the exception of the CSR ops, fence ops, and environment ops.
 Testbench is stored in the wcfg file in the main directory
+
+## Digital Building Blocks
+Contains a variety of fundamental combinational and sequential circuits
