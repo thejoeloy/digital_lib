@@ -1,0 +1,134 @@
+$date
+	Wed May 10 20:18:30 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module arithmetic_tb $end
+$var wire 1 ! ovf $end
+$var wire 2 " out [1:0] $end
+$var reg 2 # a [1:0] $end
+$var reg 2 $ b [1:0] $end
+$var reg 1 % sub $end
+$scope module fa1 $end
+$var wire 2 & a [1:0] $end
+$var wire 2 ' b [1:0] $end
+$var wire 1 ! ovf $end
+$var wire 1 % sub $end
+$var wire 2 ( out [1:0] $end
+$var wire 1 ) c2 $end
+$var wire 1 * c1 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x*
+x)
+bx (
+bx '
+bx &
+x%
+bx $
+bx #
+bx "
+x!
+$end
+#5
+0!
+0)
+b0 "
+b0 (
+0*
+0%
+b0 $
+b0 '
+b0 #
+b0 &
+#10
+b1 "
+b1 (
+b1 #
+b1 &
+#15
+b1 "
+b1 (
+b1 $
+b1 '
+b0 #
+b0 &
+#20
+b0 "
+b0 (
+b0 $
+b0 '
+#25
+1!
+1*
+b10 "
+b10 (
+b1 $
+b1 '
+b1 #
+b1 &
+#30
+0!
+1)
+b1 "
+b1 (
+b0 $
+b0 '
+1%
+#35
+0)
+0!
+0*
+b11 "
+b11 (
+b1 $
+b1 '
+b0 #
+b0 &
+#40
+1)
+0!
+b0 "
+b0 (
+1*
+b0 $
+b0 '
+#45
+b0 "
+b0 (
+b1 $
+b1 '
+b1 #
+b1 &
+#50
+1!
+0*
+b1 "
+b1 (
+b10 #
+b10 &
+#55
+0!
+b10 "
+b10 (
+1*
+b11 #
+b11 &
+#60
+b1 "
+b1 (
+b10 $
+b10 '
+#65
+b0 "
+b0 (
+b11 $
+b11 '
+#75

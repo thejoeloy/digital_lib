@@ -1,0 +1,4 @@
+module HalfAdder(a, b, cout, out);
+
+
+endmodule 
