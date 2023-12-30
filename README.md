@@ -5,7 +5,7 @@ Contains a single cycle, a multi-cycle, and a pipelined implementation of a smal
 textbook Computer Organization and Design by Hennesey and Patterson
 
 ## rv32i-pipelined processor
-Contains a synthesizable 5 stage pipelined implementation of the RV32I ISA with the exception of the CSR ops, fence ops, and environment ops.
+Contains a synthesizable 5 stage pipelined implementation of the RV32I ISA with the exception of the CSR ops, fence ops, and environment ops. Right now it is capable of 50MHz on my Zedboard.
 
 ## Digital Building Blocks
 Contains a variety of fundamental combinational and sequential circuits
