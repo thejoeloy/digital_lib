@@ -14,4 +14,4 @@
 ![Alt Text](primatives.png)
 
 
-![Alt Text](timing.png)
+![Alt Text](timing_summary.png)
